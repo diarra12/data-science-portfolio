@@ -37,7 +37,7 @@ SUMMARY QUERY 3: This summary query finds the highest social interaction mean by
 _________________________________________________________________________________________________________
 
 Key Takeaways:
-
+This project gave me insight into what SQL in the real world would look like. I was not knowledgeable about Psychology or the role resilience plays in Parent-Child relationships, so this assignment showed me how to quickly learn a dataset and understand the relationships between tables, enabling me to perform meaningful analyses.
 ________________________________________________________________________________________________________
 
 TOOLS USED:
