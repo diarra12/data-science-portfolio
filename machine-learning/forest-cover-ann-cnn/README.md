@@ -1,4 +1,4 @@
-This project explores supervised learning using ANNs (Artificial Neural Networks) and CNNs (Convolutional Neural Networks). 
+This project explores and demonstrates my foundational knowledge and experience with building and working on supervised learning using ANNs (Artificial Neural Networks) and CNNs (Convolutional Neural Networks). 
 
 I trained three models across two datasets:
   - Forest Cover Dataset (simple ANN and classification model)
